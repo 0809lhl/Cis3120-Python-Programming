@@ -31,7 +31,4 @@ A Python program that:
 - Data storage in CSV and SQLite formats
 - Data analysis(e.g., player height statistics)
 
----
-
-### Project 3: 
 
