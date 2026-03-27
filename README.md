@@ -19,7 +19,7 @@ A simple Python program that:
 ---
 
 ### Project 2: Web Scraping & API Integration
-Part 1: A Python program that:
+A Python program that:
 - Scraped a movie datasets(30+ records) from a public webpage and stored it in a Pandas DataFrame
 - Retrieved and merged additional data using API requests, then cleaned and exported to CSV and SQLite database
 - Scraped and Analyzed CUNY athletics roster data to compute average player heights for comparative analysis
